@@ -15,11 +15,11 @@ This is a solution to the Gym Traning. The Gym Rwanda challenge help us to impro
 
 ### Screenshot
 
-![Airbnb clone - Homepage](./home-p.png)
+![Airbnb clone - Homepage](./Grid.png)
 
 ### Links
 
-- Live Site URL: [Airbnb clone]()
+- Live Site URL: [Gid-layout]()
 
 ## My process
 
